@@ -1,11 +1,11 @@
 # Hamming-Code
-> concept used:
+> Concept used:
 
 Hamming code is a block code that is capable of detecting up to two simultaneous bit errors and correcting single-bit errors. It was developed by R.W. Hamming for error correction.
 
 In this coding method, the source encodes the message by inserting redundant bits within the message. These redundant bits are extra bits that are generated and inserted at specific positions in the message itself to enable error detection and correction. When the destination receives this message, it performs recalculations to detect errors and find the bit position that has error.
 Encoding a message by Hamming Code
-
+> Procedure
 The procedure used by the sender to encode the message encompasses the following steps −
 
     Step 1 − Calculation of the number of redundant bits.
