@@ -1,5 +1,5 @@
 # Hamming-Code
-> Concept used:
+> Understanding the Concept first:
 
 Hamming code is a block code that is capable of detecting up to two simultaneous bit errors and correcting single-bit errors. It was developed by R.W. Hamming for error correction.
 
