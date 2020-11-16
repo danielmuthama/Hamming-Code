@@ -1,3 +1,4 @@
+#### DANIEL MUTHAMA
 option=int(input('Press 1 for generating hamming code  \nPress 2 for finding error in hamming code\n\t Enter your choice:--\n'))
 
 if(option==1):  # GENERATE HAMMING CODE
