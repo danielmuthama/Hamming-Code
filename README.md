@@ -1,4 +1,8 @@
 # Hamming-Code
+ 
+        Press 1 for generating hamming code  
+        Press 2 for finding error in hamming code
+
 > Understanding the Concept:-
 
 Hamming code is a block code that is capable of detecting up to two simultaneous bit errors and correcting single-bit errors. It was developed by R.W. Hamming for error correction.
